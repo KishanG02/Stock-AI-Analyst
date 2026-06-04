@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+venv311/
+.venv/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# ML Models
+*.h5
+*.keras
+
+# Logs
+*.log
